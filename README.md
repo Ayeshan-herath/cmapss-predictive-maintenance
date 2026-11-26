@@ -44,3 +44,38 @@ Current stage: Project setup
 ## Project Status
 
 In Development
+
+
+## Development Setup
+
+### Requirements
+- Python 3.11 or 3.12
+- Git
+- VS Code (recommended)
+
+### Installation
+
+1. Clone the repository.
+
+2. Create a virtual environment:
+
+   python -m venv .venv
+
+3. Activate the environment on Windows PowerShell:
+
+   .\.venv\Scripts\Activate.ps1
+
+4. Install dependencies:
+
+   python -m pip install -r requirements.txt
+
+### Dataset
+
+Download the NASA C-MAPSS dataset and place
+CMAPSSData.zip inside data/raw/.
+
+The dataset is not tracked by Git.
+
+### Current Development Status
+
+Milestone 2: Python environment configuration.
