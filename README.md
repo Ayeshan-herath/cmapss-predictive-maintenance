@@ -79,3 +79,11 @@ The dataset is not tracked by Git.
 ### Current Development Status
 
 Milestone 2: Python environment configuration.
+
+## Development Progress
+
+- [x] Milestone 1: GitHub repository setup
+- [x] Milestone 2: Python environment setup
+- [x] Milestone 3: NASA FD001 data loading and understanding
+- [ ] Milestone 4: Exploratory Data Analysis
+- [ ] Milestone 5: RUL target engineering
